@@ -2,7 +2,7 @@
 		background-color :black;
 		color :white;
 		border-radius :5px;
-	    borer :none;
+	    borer :0px none;
 }
 
 #btn:hover{
