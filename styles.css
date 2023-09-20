@@ -2,7 +2,7 @@
 		background-color:black;
 		color:white;
 		border-radius:5px;
-	    borer:0px;
+	    borer:none ;
 }
 #btn:hover{
 	background-color:yellow;
