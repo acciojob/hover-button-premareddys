@@ -1,8 +1,8 @@
 #btn{
 		background-color:black;
-		font-color:white;
+		color:white;
 		border-radius:5px;
-	    borer:none ;
+	    borer:none;
 }
 #btn:hover{
 	background-color:yellow;
